@@ -1,0 +1,457 @@
+---
+title: "Objektive mål af lænderygpatienter"
+subtitle: En kohorte undersøgelse af lændepatienter med udgangspunkt i Smertesensitivitet, Biomekanik,
+  Muskelfunktion - set fra et BioPsykoSocial perspektiv 
+author: "Casper Glissmann Nim, Johanne Brich Larsen og Søren O'Neill"
+date: "juni, 2018"
+output:
+  pdf_document:
+    number_sections: yes
+header-includes: \renewcommand{\contentsname}{Indholdsfortegnelse}
+csl: vancouver.csl
+
+bibliography: PreGrad.bib
+---
+
+# Forsøgsprotokol  
+
+## Introduktion
+
+Lænderygsmerter er den hyppigste årsag til år levet med nedsat livskvalitet [@vos] og besøg hos den praktiserende læge og koster samfundet et betydeligt milliard beløb årligt på tabt arbejdskraft, sygemelding og behandling i primær sektoren [@sundhed]. På trods af den massive socioøkonomiske problemstilling lænderygsmerter er, har vi ikke et sufficient grundlag til at informere patienten om risikofaktorer, diagnose eller prognose - dette har medført at lænderygsmerter ikke længere ses som et _biomedicinsk_ problem, men i stedet som en multimodal problemstilling hvor både _biologiske_,  _psykologiske_ og  _sociale_ aspekter spiller en betydelig rolle [@osullivan]. 
+
+Dette har gjort det svært at give en specifik årsags forklaring da det fremstår uklart præcis hvilke faktorer der har betydning for den enkelte patient. Der er dog forholdvis enighed om at både psykologiske og sociale problemstillinger generelt spiller en væsentlig rolle i både udvikling samt persistering af langvarige smerter. Disse parametre er tidligere kvantificeret ved brug af spørgeskemaer [@bean]. Den store udfordring kommer ved de biologiske forandringer såsom smertesensitivitet, biomekaniske forhold, muskelfunktion og degenerative forandringer, her opstår der uenighed i litteraturen omkring hvorvidt dette er relevant og om det har nogen betydning for patientens diagnose og prognose:
+
+```{r, include=TRUE}
+#Indsætte afsnit om heterogeneitet for bedre flow?
+
+#andre overskrifter? Biomekanik og muskelfunktion - ananas i egen juice??? 
+```
+
+
+### Smertesensitivitet
+Viden om centrale smertemekanismer er tiltaget over de sidste årtier. Det er postuleret at udvikling af _central sensibilisering_ spiller en betydelig rolle i overgangen mellem akutte og kroniske smerter, udstrålende smerter, post-operative smerter etc. [@arendt-nielsen]. En kvantificering af disse kan muligvis have en klinisk anvendelighed ved fx forebyggelse, diagnose, prognose og behandlingstiltag. Et estimat af _central sensibilisering_ kan måles ved forskellige smertetest der på nuværende tidspunkt typisk foretages i et laboratorium. For at vi kan øge vores viden om den kliniske anvendelighed, er der behov for at udføre målinger på en større population af patienter med lænderygsmerter. 
+
+### Biomekaniske forhold  
+Stivhed i lænden er en hyppig klage blandt patienter med lænderygsmerter. Det er dog svært at opnå subjektiv enighed om hvornår man har et led der ikke bevæger sig optimalt og er såkaldt dysfunktionelt [@stochkendahl]. I et forsøg på at kvantificere stivhed har man udviklet et apparat der kan måle dette objektivt. Det er dog uklart hvorvidt følelsen af lændestivhed er af psykisk eller mekanisk ophav [@stanton]. Øget viden om kvantificerbar lændestivhed er nødvendigt for at kunne klassificere dets kliniske anvendelighed.
+
+```{r}
+#Skal vi have noget kvantitativt på hvor stive folk føler sig? 
+```
+
+
+### Muskelfunktion  
+Teoretisk er optimal muskelfunktion vigtig for god og smertefri bevægelighed. Ved lænderygsmerter er det vist at der forekommer en ændring i aktiviteten af de stabiliserende rygmuskler under udvikling af både subakutte og kroniske smerter [@danneels]. Elektromyografi (EMG) er en målemetode der giver information omkring den elektriske aktivitet af muskulaturen. Metoden giver mulighed for at vurdere muskelfunktionen non-invasivt ved hjælp af elektroder placeret på huden (sEMG) [@villafane]. En anden metode til at undersøge muskelfunktionen på er ved hjælp af akustisk myografi (AMG). Denne metode bruger en teori om at muskler genererer trykbølger under deres kontraktion, trykbølgerne kan optages via mikrofoner på huden og analyseres som et udtryk for muskelfunktionen[@gordon1948]. For nuværende er der kun få studier der har beskæftiget sig med AMG. Disse peger på at AMG giver et mere tydeligt billede af musklens funktion i forhold til fx. EMG målinger[@harrison2013,@claudel2017]. Der mangler dog studier af høj kvalitet, herunder studier der påviser at metoden kan bruges til at måle rygmuskulaturen.
+
+### Degenerative forandringer  
+Den øgede tilgængelighed af Magnetisk Resonans skanninger (MR) har givet bedre mulighed for at beskrive de strukturelle forhold i ryggen. Der hersker dog tvivl om hvorvidt disse oplysninger er klinisk relevante, fx. ses der degenerative forandringer hos personer uden symptomer[@brinjikji]. Studier har forsøgt at subklassificere forskellige MR fund [@jensenrk], men det er ikke tidligere forsøgt at korrelere MR fund med øvrige objektive målinger. 
+
+## Formål  
+Dette studie vil undersøge et testbatteri med forskellige modaliteter på en stor gruppe af patienter med lænderygsmerter set i sekundærsektoren. De enkelte målemetoder giver hver for sig en begrænset forklaring på en større kompleks problematik. Målet er derfor at se, om et testbatteri af dette studies karakter, vil kunne gives en mere fyldestgørende beskrivelse af patientgruppen mhp. smerteprofil og biomekaniske forhold. Yderligere vil studiet korrelere disse fund med patientens kliniske, psykiske og sociale præsentation.  
+
+```{r, include=TRUE}
+#Mere specifikt forskningsspørgsmål?
+
+#Måske det her er fint, men at vi skal specificerer det mere til den studerende. 
+```
+
+
+# Metode  
+
+Studiet er designet som et tværsnitstudie. 500 patienter inkluderes fortløbende og bliver undersøgt på Rygcenter Syddanmark, Sygehus Lillebælt.
+
+Undersøgelsen forventes at vare 60 minutter og har ikke nogen indvirkning på det kliniske forløb eller fremtidig behandling. 
+
+Selve den eksperimentelle undersøgelse består af *xx* antal test (Tabel 1).  *SKAL OPDATERES NÅR DET ENDELIGE FORELIGGER*
+
+**Kvantitative kliniske test i den eksperimentelle undersøgelse** | 
+---------------------------------------------------------------------------|-------
+**Smertesensitivitet** |
+_Mekanisk prik: Detektions tærskel_ |
+_Mekanisk prik: Smerte tærskel_ |
+_Mekanisk tryk: Smerte detektions tærskel_ |
+_Mekanisk tryk: Smerte intensitet_ |
+_Termisk stimulation: Varme smerte tærskel_|
+_Termisk stimulation: Varme smerte intensitet_|
+_Computer-kontrolleret cuff algometri: Smerte tolerance_|
+_Computer-kontrolleret cuff algometri: Konditioneret smerte modulation_|
+_Mekanisk tryk: Temporal summation_|
+_Termisk stimulation: Temporal summation_|
+**Biomekanik** |
+_Vertetracker: Mekanisk objektiv stivhed_ |
+_Kinetisense: bevægelighed_ |
+**Muskelfunktion** |
+_Overflade video: muskel aktivitet_ |
+_Overflade elektromyografi: elektrisk aktivitet af musklen_ |
+_Akustisk myografi: mekanisk akustisk aktivitet af musklen_ |
+
+Tabel 1: Oversigt over kvantitative kliniske test.  
+
+```{r,include=TRUE}
+#Bør man have saltvand injektion med? om ikke andet på en subgruppe? 
+#hvis vi får tilladelse her kan vi altid lave det under kohorten men måske med en anden studerende? 
+#så skal vi kun høre om raske frivillige? 
+```
+
+
+## Test protokol Smertesensitivitet
+
+### Landmærke indentification
+
+Alle landmærker for de forskellige test palperes manuelt, hvor linjen mellem crista kanten vurderes at være det interspinale rum mellem L4 og L5. De nævnte afstande måles alle med en standard lineal. 
+
+### Visuel analog smerte skala (VAS)
+
+Forsøgsdeltagere instrueres i brugen af en *visuel analog smerte skala* (VAS), som er en 10cm lang skala trykt på papir, markeret med 'Ingen smerte' og 'Værst tænkelige smerte' i hver ende af skalaen.
+
+### Elektronisk visuel analogue smerte skala (eVAS)
+
+Forsøgsdeltagere instrueres i brugen af en *elektronisk visuel analog smerte skala* (eVAS), som er en grafisk skala vist på en computerskærm, markeret med 'Ingen smerte' og 'Værst tænkelige smerte' i hver ende af skalaen ("Ingen smerter"=0 til "Værst tænkelige smerte="100), som måles med en frekvens på 1 Hz.
+
+Der afprøves to forskellige test protokoller:
+
+* Standard laboratorie metode
+* Tilpasset klinisk metode
+
+## Standard laboratorie metode
+
+#### Mekanisk prik detektions tæskel
+
+Prik detektions tærsklen testes med et standard von Frey filament sæt (log. skala fra 1.65 - 6.65, North Coast Medical, USA).
+
+Prikket påføres manuelt med gradvist stigende intensitet indtil forsøgsdeltageren mundtligt indikeret at prikket kan mærkes. Målingerne gentages 3 gange med cirka 10 sekunders mellemrum.
+
+Der testes i lænderyggen på det kliniske mest smertefulde segment og på bagsiden af den dominante hånd. 
+
+#### Mekanisk prik smerte detektions tærskel
+
+Prik smerte detektions tærsklen testes med samme von Frey filament set som beskrevet herover.
+
+Prikket påføres manuelt med gradvist stigende intensitet indtil forsøgsdeltageren mundtligt indikerer at prikket opleves som smerte. Målingerne gentages 3 gange med cirka 10 sekunders mellemrum.
+
+Der testes i lænderyggen på det kliniske mest smertefulde segment og på bagsiden af den dominante hånd. 
+
+
+#### Mekanisk tryk smerte detektions tærskel
+
+Tryk-smerte detektions tærsklen testes med et standard tryk-algometer (Somedic, 1cm^2^ probe, model 2, Hørby, Sverige).
+
+Trykket påføres manuelt med en nær-konstant stigning i tryk på cirka 50 KPa/s indtil deltageren indikerer at trykket begynder at blive smertefuldt, ved at aktivere indikator-knappen forbundet til algometeret.
+
+Målingerne gentages 3 gange med cirka 10 sekunders mellemrum. Algometret placeres således, at gentagne test overlapper delvist. Såfremt ingen smerte reaktion udløses inden et tryk på 1000 KPa, bliver dette registreret som tærskel værdien. Hvis første og anden måling er 1000 KPa, bliver en tredje ikke foretaget.
+
+Der testes i lænderyggen på det kliniske mest smertefulde segment og på bagsiden af den dominante hånd. 
+
+#### Mekanisk tryk smerte intensitet
+
+Tryk smerte intensitet testes med samme tryk-algometer som beskrevet herover.
+
+Trykket påføres manuelt med en nær-konstant stigning i tryk på cirka 50 KPa/s indtil trykket svarer til 150% af den individuelle tryk-smerte detektions tærskel og holdes konstant i 3 sekunder. 
+
+Derpå angiver forsøgsdeltageren smerte intensiteten på en papir VAS.
+
+Der testes i lænderyggen på det kliniske mest smertefulde segment og på bagsiden af den dominante hånd. 
+
+
+#### Varme smerte detektions tærskel
+
+Varme smertetærskel testes med en Medoc TSA-II termode stimulator (3x3 cm^2^) som gennemsnit af de fire sidste målinger af en serie på 5 stimulationer (baseline 32 celcius, stigning 1 celcius/sekund) med 10 sekunders interval.
+
+forsøgsdeltageren indikerer hvornår stimulationen opleves som smertefuld ved at trykke på en indikator knap, hvorpå temperaturen returnerer til baseline (fald 10 celsius/sekund).
+
+Der testes i lænderyggen på det kliniske mest smertefulde segment og på thenar siden af den dominante hånd. 
+
+#### Varme smerte intensitet
+
+Der testes med samme Medoc TSA-II som beskrevet herover.
+
+Der stimuleres i 3 sekunders ved 48 grader celsius og deltageren indikerer smerte intensiteten ved hjælp af en papir VAS.
+
+Der testes i lænderyggen på det kliniske mest smertefulde segment og på thenar siden af den dominante hånd. 
+
+### Pneumatisk tryk
+
+Via en computer kontrolleret pneumatisk tryk stimulator (Nocitech, Aalborg, Danmark) sættes 2 mancheter om begge underben (10 cm distalt fra undersiden af patella) og trykket stiger fra 0 - 100 KPa med en frekvens på 1 Hz, smerte intensiteten registreres ved eVas. Tryk detektion registreres ved eVAS = 0.1, tryk smerte detektions tærskel ved eVAS = 1 og tryk smerte tolerancen ved eVAS = 10. 
+
+Forsøgsdeltageren vil opleve et kontinuerligt stigende tryk i hvert underben indtil smertetolerancen er opnået. 
+
+### Kold pressor test
+
+Et 25 liters vandkar bliver holdt nedkølet til mellem 0 og 2 ºC (Dometic Waeco Mobicool C40, Dubai, Forenede Arabiske Emirater) og temperaturen bliver monitoreret med et almindeligt sprit termometer. Vandet cirkuleres ved hjælp af en cirkulations pumpe (Submersible pump, model Reich, Arnhem, Holland, 10 L/min, 0.5 bar).
+
+Forsøgsdeltageren bliver instrueret i at nedsænke den ikke-dominante hånd i vandet til håndleddet, uden at knytte hånden. Forsøgsdeltageren indikerer fortløbende kulde smerten på en computer eVAS.
+
+#### Temporal summation af mekanisk tryk og prik
+
+Temporal summation testes med samme computer kontrolleret pneumatisk tryk stimulator som beskrevet herover. Der måles på den dominante underben. Smerte intensiteten angives på eVAS.
+
+Som stimuli bruges standard protokol med 10 stimulationer med 1 sekunders mellemrum, hvor trykket kører i cyklus mellem 5 KPa og svt. 100% af deltagerens smertetolerancen, som bliver målt forinden. Smerteintensitet scores som gennemsnit af tryk nummer. 2-4, 5-7 og 8-10. 
+
+```{r, include=TRUE}
+# Min protokol og umiddelbare plan for at analyserer TS fra cuffen? 
+```
+
+Derpå testes manuelt med 10 stimulationer med standard von Frey filament (North Coast Medical), et niveau over den individuelle prik smerte detektions tærskel på dominante hånds bagside og smerte intensitet ved første og sidste stimuli angives på papir VAS.
+
+#### Temporal summation af varme stimulation
+
+Temporal summation af varme testes med termode stimulatoren (Medoc) ved 15 gentagne stimulationer ved den individuelle varme smerte detektions tærskel af 1 sekunds varighed med 2 sekunders pause. 
+
+Forsøgsdeltageren angiver smerteintensiteten ved første og sidste stimulation.
+
+#### Betinget smerte modulering
+
+Mekanisk tryk smerte intensitet bliver gen-testet (fasisk stimuli) med trykalgometeret (Somedic) umiddelbart før Kold pressor testen (tonisk stimuli) afsluttes. Forskellen i tryk-smerte intensitet bliver registreret som en indikation for betinget smerte modulering.
+
+Mekanisk tryk smerte intensitet bliver testet med computer kontrolleret pneumatisk tryk stimulator på begge underben, på det non dominante underben øges trykket til 70% af smerte tolerancen og fastholdes (tonisk stimuli), herefter øges trykket i dominante underben og forskellen i tryk smertetærskel registreres som en indikation for betinget smerte modulering.
+
+Varme smertetærskel bliver gen-testet (fasisk stimuli) med termode stimulatoren (Medoc) umiddelbart efter Kold pressor testen (tonisk stimuli) afsluttes. Forskellen i varme smertetærskel bliver registreret som en indikation for betinget smerte modulering.
+
+
+
+
+## Tilpasset klinisk metode
+
+#### Mekanisk prik detektions tæskel
+
+Prik detektions tærsklen testes dels med en specialfremstillet lod-påvirket prik probe med en lineær lod-serie (hhv 4, 12, 20, 28, 36, 44, 52 gram).
+
+Prikket påføres manuelt med gradvist stigende intensitet indtil forsøgsdeltageren mundtligt indikeret at prikket kan mærkes. Målingerne gentages 3 gange med cirka 10 sekunders mellemrum.
+
+Der testes i lænderyggen på det kliniske mest smertefulde segment og på bagsiden af den dominante hånd. 
+
+
+#### Mekanisk prik smerte detektions tærskel
+
+Prik smerte detektions tærsklen testes med samme special fremstillede lod-påvirkede prik probe set som beskrevet herover.
+
+Prikket påføres manuelt med gradvist stigende intensitet indtil forsøgsdeltageren mundtligt indikerer at prikket opleves som smerte. Målingerne gentages 3 gange med cirka 10 sekunders mellemrum.
+
+Der testes i lænderyggen på det kliniske mest smertefulde segment og på bagsiden af den dominante hånd. 
+
+
+#### Mekanisk tryk smerte detektions tærskel
+
+Tryk-smerte detektions tærsklen testes med en specialfremstillet fjeder-påvirket tryk probe (0-10 kg -- 1cm^2^ hoved).
+
+Trykket påføres manuelt med en nær-konstant stigning i tryk på cirka 50 KPa/s (vha markeret skala på proben) indtil deltageren mundtligt indikerer at trykket begynder at blive smertefuldt.
+
+Målingerne gentages 3 gange med cirka 10 sekunders mellemrum. Tryk proben placeres således, at gentagne test overlapper delvist. Såfremt ingen smertereaktion udløses inden et tryk på 10 kg, bliver dette registreret som tærskel værdien. Hvis første og anden måling er 10 kg, bliver en tredje ikke foretaget.
+
+Der testes i lænderyggen på det kliniske mest smertefulde segment og på bagsiden af den dominante hånd. 
+
+#### Mekanisk tryk smerte intensitet
+
+Tryk smerte intensitet testes med samme special fremstillede fjeder-påvirkede tryk probe som beskrevet herover.
+
+Trykket påføres manuelt med en nær-konstant stigning i tryk på cirka 50 KPa/s indtil trykket svarer til 150% af den individuelle tryk-smerte detektions tærskel og holdes konstant i 3 sekunder. 
+
+Derpå angiver forsøgsdeltageren smerte intensiteten på en papir VAS.
+
+Der testes i lænderyggen på det kliniske mest smertefulde segment, på hypothenar delen af den dominante hånd og på sternum i midtlinjen.
+
+#### Varme smerte detektions tærskel
+
+Varme smertetærskel testes som gennemsnit af 4 målinger med specialfremstillet varmestimulator bestående af et Peltier-elements (3x3 cm^2^), trykket stiger gradvist og varme smerte tærskel registreres når deltageren angiver at varmen føles som smerte, og herefter fjernes elementet. 
+
+Der testes i lænderyggen på det klinisk mest smertefulde segment og på thenar siden af den dominante hånd. Stimulationen afbrydes efter den når 50 grader, såfremt forsøgsdeltageren ikke forinden har angivet at stimulationen er blevet smertefuldt.
+
+#### Varme smerte intensitet
+
+Der testes med samme special fremstillede varmestimulator som beskrevet herover.
+
+Der stimuleres i 3 sekunder efter at smerte detektions tærsklen er nået og deltageren indikerer smerte intensiteten ved hjælp af en papir VAS.
+
+Der testes i lænderyggen på det klinisk mest smertefulde segment og på hypothenar siden af den dominante hånd.
+
+### Kold pressor test
+
+Et 5 liters vandkar bliver holdt nedkølet til mellem 0 og 2 ºC og temperaturen bliver monitoreret med et almindeligt sprit termometer.
+
+Forsøgsdeltageren bliver instrueret i at nedsænke den ikke-dominante hånd i vandet til håndleddet, uden at knytte hånden og kontinuerligt at bevæge hånden frem og tilbage i vandet. Forsøgsdeltageren indikerer fortløbende kulde smerten på en eVAS.
+
+#### Betinget smerte modulering
+
+Mekanisk tryk smerte intensitet bliver gen-testet (fasisk stimuli) med den special fremstillede trykprobe umiddelbart før Kold pressor testen (tonisk stimuli) afsluttes. Forskellen i tryk-smerte intensitet bliver registreret som en indikation for betinget smerte modulering.
+
+Varme smertetærskel bliver gen-testet (fasisk stimuli) med den special fremstillede varmestimulator umiddelbart efter Kold pressor testen (tonisk stimuli) afsluttes. Forskellen i varme smertetærskel bliver registreret som en indikation for betinget smerte modulering.
+
+#### Temporal summation af mekanisk tryk og prik
+
+Temporal summation testes med manuel kontrolleret tryk med en almindelig blodtryksmanchet på underbenet af den dominante side. Smerte intensiteten angives på papir VAS.
+
+Som stimuli bruges 10 stimulationer med manuelt op-pumpning af blodtryksmanchet, hvor trykkets cyklus er fra 150 mmHg til 250mmHg og smerte intensitet ved første, femte og sidste stimuli angives på papir VAS.
+
+Derpå testes manuelt med 10 stimulationer med special fremstillet lod-påvirket prik probe, 1 cm over den individuelle prik smerte detektions tærskel på dominante hånds hypothenar side og smerte intensitet ved første og sidste stimuli angives på papir VAS.
+
+#### Temporal summation af varme stimulation
+
+Temporal summation af varme testes med den special fremstillede varmestimulator ved 15 gentagne stimulationer ved den individuelle varme smerte detektions tærskel af 1 sekunds varighed med 2 sekunders pause. 
+
+Forsøgsdeltageren angiver smerteintensiteten ved første og sidste stimulation.
+
+## Test protokol Biomekanik
+
+#### Stivhed
+Stivhed måles ved hjælp af et mekanisk apparat _VerteTracker_ (University of Alberta, Canada), der fører en perpendikulær kraft, via 2 rullehjul, langs den paravertebrale muskulatur fra segment S1 til Th12, lineær indrykning måles fra en komfortabel 5 N op til maskimalt 78 N eller indtil deltageren ikke længere har mulighed for at slappe af i muskulaturen/oplever smerte. Der er ca. 20 sekunders pause mellem hvert rul. 
+
+#### Bevægelse
+Bevægelse måles objektivt ved hjælp af Kinetisense (Medicine Hat, Alberta, Canada). Patienten optages via et kamera og der udføres bevægelser i fleksion, ekstension og lateral fleksion, der måles et grad tal udfra den lumbale midtlinje. Hver bevægelse udføres så naturligt som muligt indtil patienten oplever yderstillingen som smerte.   
+
+Bevægelse måles via en standard målebånd som afstanden fra 3. finger spids til gulvet i fleksion og lateral fleksion. Hver bevægelse udføres så naturligt som muligt indtil patienten oplever yderstillingen som smerte.   
+
+Bevægelse måles via TiltMeter - Advanced Level and Inclinometer til iPhone (Carlos Hernandez, iOS app store). Deltageren er stående og iPhonen sættes langs venstre flanke, der udføres en fuld fleksion og ekstension indtil deltageren oplever yderstillingen som smertefuld. Efter dette ligger deltageren sig på ryggen og der udføres en standard stræk-ben-løft test, iPhonen er her placeret ved den ipsilaterale hoftekant, øvelsen udføres passivt indtil 1) mekanisk stop, 2) lændesmerter der gør at deltageren ikke vil fortsætte 3) kendte smerter i benet. 
+
+Alle målinger noters på papir af undersøgeren. 
+
+## Test protokol Muskel funktion
+
+#### Muskel video
+Der foretages en video optagelse, af 30 sekunder varighed, af begge lægge og lænderyggen mens patenten ligger på maven efter 1 minuts hvile. 
+
+#### Overflade elektromyografi og akustisk myografi
+
+EMG og AMG måles simultant under en udførelsen af en rygøvelse. Patienten ligger på maven på en briks med overkroppen ud over briksen og med armene støttende på en stol.   
+
+Sensorene bliver placeret 2,5 cm på hver side af midilinjen fra L4, mærket som L4-dexter og L4-sinister, for EMG bliver der ligeledes sat en kontrol elektrode over processus spinosi af C7. Sensorene dækkes af ultralyds gel (EKO Gel, EkkoMed, Holstebro, Danmark) og fastgøres til huden med bandage (Mediplast AB, Malmø, Sverige). For at sikre at elektroderne ikke bevæger sig, klargøres huden med en let barbering, let slibning med 200 kornet sandpapir og afsprittes.
+
+AMG signalet optaget med en CURO enhed og sensorer (MyoDynamik ApS, Frederiksberg, Danmark), alt data lagres i CURO Clinic Data recording system. Real-time optagelser følges på en iPad enhed (Apple Inc, Cupertino, CA, USA) for at sikre datasamling.
+
+EMG udføres ved at en bipolar elektrode (NAVN??? og størrelse) placeres umiddelbart under AMG sensoren, alt data lagres via XXX SYSTEM???
+
+## Test protokol Struktur
+
+#### Magnetisk Resonans skanning
+
+Deltageren vil ikke få foretaget en MR-skanning ifbm. studiet, men via den vanlige kliniske udredning. Billederne gemmes på separat PACS system hvor de bliver anonymiseret og vil være tilgængelig til analyser efter dybdegående deskriptiv beskrivelse af diskus degeneration, diskus protrussion, diskus prolaps, modic forandringer, facetledsartrose, lig. flavum hypertrofi samt øvrige mere sjældne fund der ofte antages at være bifund [REF????] som fx tarlov cyster, facetledscyster, hæmangion, schmolsk impression etc. på hvert lumbale segment (Th12/L1 til L5/S1). 
+
+## Overordnet protokol
+
+Undersøgelserne foregår i det dertil indrettede laboratorium på Rygcenter Syddanmark, Middelfart Sygehus og vil blive foretaget af en forskningsassistent, som ligeledes vil indhente de relevante journal oplysninger. REDCap (Research Electronic Data Capture, Region Syddanmark) vil blive anvendt til at indtaste data fra undersøgelserne.  
+
+Protokollen består af tre del-undersøgelse som omhandler _smertesensitivitet_, _biomekanik_ og _muskelfuktion_. Der inkluderes forsøgsdeltagere med ondt i ryggen fra Rygcenter Syddanmark, Middelfart. I alle tre del-undersøgelser, er der ikke krav om at alle forsøgsdeltagere skal gennemføre det fulde batteri. 
+
+Undersøgelsen udføres **en** gang, evt. i forbindelse med et kontrolbesøg som del af den vanlige udredning.
+
+### Statistiske overvejelser
+
+Da vi udfører et stort batteri af forskellige test, som ikke tidligere er korreleret er power analyse ikke muligt, vi ønsker at inkludere så mange som muligt. Projektet forventes at løbe i ca. 6 måneder, men vi stopper efter 500 deltagere. 
+
+### Forsøgspersoner
+
+Myndige patienter med lænderygsmerter rekrutteres fra Rygcenter Syddanmark, Middelfart Sygehus fra 1 februar 2019 og frem til efteråret 2019, alternativt startes projektet først op i september 2019. 
+
+#### Inklusions kriterier
+
+* Lænderygsmerter der defineres som smerte på bagsiden af kroppen, beliggende fra underkanten af ribbenskurvaturen til de nedre baldefolder.
+* At afdelingens behandlingsdatabase _SpineData_ er udfyldt og at dér givet samtykke til at data må bruges i forskning.
+* Ingen svære psykiatriske lidelser
+* Alder mellem 18 og 70
+* Taler og forstår dansk
+* Smertesensitivitet
+    - Ingen svær neuropati med sensoriske forstyrrelser af underekstremiteten eller overekstremiteten fx diabetisk neuropati. 
+    - Specifikt for computer kontrolleret pneumatisk tryk: Ingen vaskulære lidelser, herunder dyb vene trombose, vaskulitis, varicer eller lignende
+* Biomekanik
+    - Specifikt for VerteTracker: BMI < 40
+* Muskelfunktion
+    - Specifikt for AMG/EMG: Ingen allergi overfor plastik og må ikke have pacemaker. 
+
+De er relevant at gøre opmærksom på at patienten ikke skal have en MR skanning af columna lumbalis for at kunne deltage i projektet. 
+
+#### Eksklusions kriterier
+
+Deltagere som under projekt undersøgelse tilbagetrækker deres samtykke, ikke tolererer undersøgelsesprocedurerne eller hvor der opstår tekniske vanskeligheder under data indsamlingen.
+
+### Risici, bivirkninger og ulemper
+
+Der forventes ingen betydelige ulemper i forbindelse med forsøget og der er ingen forventede bivirkninger eller risici forbundet med deltagelse i projektet. 
+
+De anvendte smerte stimuli forventes ikke at give anledning andet end forbigående smerter og er alle igennem mange år anvendt uden problemer i eksperimentel smerteforskning. 
+
+Der anvendes ingen invasive stimuli i aktuelle protokol.
+
+Der tilbydes og/eller tilbageholdes ingen behandling i forbindelse med projekt deltagelsen.
+
+Alle de ovenstående undersøgelserne er alle tidligere godkendt til brug af videnskabs etisk komité, fraset bevægelsesundersøgelserne men her forventer vi ingen bivirkninger, da vi undersøger bevægeudslag indenfor deltagerens egen smertegrænse og er ikke anderledes end en standard klinisk undersøgelse. 
+
+### Oplysninger fra patientjournaler
+
+Der indhentes oplysninger fra behandlingsdatabasen _SpineData_ og det forudsættes i inklusions kriterierne, at forsøgsdeltagere forud for inklusionen har givet samtykke til at disse data må bruges til forskning. Ligeledes indhentes der følgende fra primær journalen:
+
+* ICD-10 diagnose kode (1 primær diagnose og maskimalt 1 bidiagnose)
+* Fund ved den objektive undersøgelse
+* Den endelig plan for patienten (kirurgisk konference, kirurgisk vurdering, funktionsvurdering, genoptræning, afslutning til primær sektoren, viderehenvisning til anden afdeling etc.)
+
+Udover dette vil de deltagere med MR skanningen bliver videregivet til sikkert PACS system i forsknings regi, her vil de blive pseudoanonymiseret og lagret efter standard godkendte sikkerhedsprocedure
+
+#### Udtagning af biologisk materiale
+
+Der indsamles intet biologisk materiale i aktuelle projekt.
+
+
+### Behandling af personoplysninger i projektet
+
+Loven om databeskyttelse vil blive overholdt.
+
+Projektet vil efter godkendelse fra etisk komite og inden forsøgets opstart anmeldes til Datatilsynet under Sygehus Lillebælts paraply ansøgning 'Sundhedsforskning i Region Syd'. Data opbevares på OUHs OPEN's server eller regionens dertil oprettede SharePoint server.
+
+SpineData har særskilt godkendelse fra datatilsynet under paraply godkendelsen 'Patientbehandling i Region Syd' (journal 15/53522 -- 2008-58-0029). Data fra SpineData udtrækkes efter ansøgning til databasens styregruppe og kun for patienter som har givet tilsagn dertil ifbm indtastningen.
+
+### Økonomi
+
+Projektet iværksættes alene på initiativ af den forskningsansvarlige.
+
+Projektet er finansieret internt med midler fra _Fonden til Fremme af Kiropraktisk Forskning og Postgraduat Uddannelse_. Der er ikke søgt eller modtaget støtte fra anden side, herunder medicinalvare industrien eller lignende.
+
+Ingen af forskerne har økonomiske interesser forbundet med forsøgets resultat. 
+
+### Deltager vederlag
+
+Der ydes ikke vederlag for deltagelse i aktuelle projekt.
+
+### Rekruttering af forsøgsdeltagere
+
+*MR henvisning*
+
+Når en lændepatient skal MR skannes og skal have booket en kontroltid, vil de få udleveret både deltagerinformation og projektinformation, her har de mulighed for at læse det igennem enten derhjemme eller på matriklen. Såfremt de tager materialet med hjem, vedlægges der et telefon nummer til de forskningsansvarlige og her kan der aftales en tid til mundtlig information. Hvis patienten bliver på matriklen og læser om projektet vil der være mulighed for mundtlig information her. 
+
+*E-boks*
+
+Patienter med kroniske rygsmerter rekrutteres ved skriftlig kontakt forud for undersøgelsen på Rygcentret. På baggrund af data indtastet i SpineData er det muligt automatisk at identificere potentielt egnede deltagere ift. inklusionkriterierne, som giver samtykke til at deres oplysninger i SpineData må anvendes til forskning -- derpå fremsendes skriftlig deltager information via e-boks.
+
+Potentielle forsøgsdeltagere med rygsmerter får således tilsendt skriftlig deltager information nogle dage forud for deres kliniske undersøgelse på afdelingen. I forbindelse med den kliniske undersøgelse vil de få mundtlig deltager information fra en af de forskningsansvarlige på afdelingen. 
+Der kan aftales tid til projektdeltagelse nogle dage senere hvilket giver mulighed for betænkningstid forud for evt samtykke, og i så fald kontaktes patienten tidligst 1 døgn senere af den forskningsansvarlige for at høre om patienten ønsker at deltage. 
+
+### Informeret samtykke
+
+Den mundtlig information om projektet evt. ifbm. deres første fremmøde på Rygcenter Syddanmark vil blive afholdt i et tomt undersøgelseslokale af den forskningsansvarlige. Her vil der være mulighed for medbringe en bisidder.
+
+Potentielle deltagere kan få al den betænkningstid de ønsker - der er intet krav om at give tilsagn indenfor en afgrænset periode (fraset projektets afslutning). 
+
+Samtykke indhentes forud for første projekt undersøgelse.
+
+Erfaringsmæssigt er der dog nogle som umiddelbart giver samtykke og hellere vil deltage i projekt undersøgelsen på samme dag som den kliniske kontakt, fremfor at skulle komme ind til projektdeltagelse på en anden dag - det vil i så fald imødekommes.
+
+Informeret samtykke indhentes via vedlagte skema. 
+
+### Offentliggørelse af resultater
+
+Undersøgelses resultaterne vil søges publiceret i et anerkendt, fagfælle-bedømt internationalt tidsskrift inden for smerteforskningen - eksempelvis European Journal of Pain.
+
+Resultaterne vil søges publiceret uanset om resultatet er positive, negative eller inkonklusive.
+
+### Etiske overvejelser
+
+Deltagelse er frivillig og der inkluderes kun voksne, myndige forsøgsdeltagere over 18 år, der giver samtykke efter at have modtaget mundtlig og skriftlig deltager information. Deltagelse i projektet vil ikke få indflydelse på patienternes kliniske forløb, deres udredning, behandlingstilbud eller lignende.
+
+Alle deltagere kan, på et hvilket som helst tidspunkt trække deres samtykke tilbage og træde ud af forsøget uden det får betydning for deres kliniske forløb.
+
+Deltagelse vil ikke umiddelbart medføre nogen fordele eller ulemper for forsøgsdeltagerne. Den etiske retfærdiggørelse af projektet ligger i tilegnelsen af ny viden om objektive mål patienter med lænderygproblemer.
+
+### Oplysninger om erstatningsordning
+
+Projektet foregår i regi af Rygcenter Syddanmark, Middelfart Sygehus, Sygehus Lillebælt og er således omfattet af den offentlige patienterstatning.
+
+# Referencer
+
+
+
