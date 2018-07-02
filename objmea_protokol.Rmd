@@ -9,7 +9,6 @@ output:
     number_sections: yes
 header-includes: \renewcommand{\contentsname}{Indholdsfortegnelse}
 csl: vancouver.csl
-
 bibliography: PreGrad.bib
 ---
 
@@ -21,13 +20,9 @@ Lænderygsmerter er den hyppigste årsag til år levet med nedsat livskvalitet [
 
 Dette har gjort det svært at give en specifik årsagsforklaring da det fremstår uklart præcis hvilke faktorer der har betydning for den enkelte patient. Der er dog forholdvis enighed om at både psykologiske og sociale problemstillinger generelt spiller en væsentlig rolle i både udvikling samt persistering af langvarige smerter. Disse parametre er tidligere kvantificeret ved brug af spørgeskemaer [@bean]. Den store udfordring kommer ved de biologiske forandringer såsom smertesensitivitet, biomekaniske forhold, muskelfunktion og degenerative forandringer, her opstår der uenighed i litteraturen omkring hvorvidt dette er relevant og om det har nogen betydning for patientens diagnose og prognose:
 
-```{r, include=TRUE}
-#Indsætte afsnit om heterogeneitet for bedre flow?
+<!-- afsnit om heterogenitet=-->
 
-#andre overskrifter? Biomekanik og muskelfunktion - ananas i egen juice??? 
-```
-
-<!-- du kan indsætte kommentarer i markdown sådan her -->
+<!-- Andre overskrifter? -->
 
 ### Smertesensitivitet
 
@@ -36,12 +31,6 @@ Viden om centrale smertemekanismer er tiltaget over de sidste årtier. Det er po
 ### Biomekaniske forhold  
 
 Stivhed i lænden er en hyppig klage blandt patienter med lænderygsmerter. Det er dog svært at opnå subjektiv enighed om hvornår man har et led der ikke bevæger sig optimalt og er såkaldt dysfunktionelt [@stochkendahl]. I et forsøg på at kvantificere stivhed har man udviklet et apparat der kan måle dette objektivt. Det er dog uklart hvorvidt følelsen af lændestivhed er af psykisk eller mekanisk ophav [@stanton]. Øget viden om kvantificerbar lændestivhed er nødvendigt for at kunne klassificere dets kliniske anvendelighed.
-
-```{r}
-#Skal vi have noget kvantitativt på hvor stive folk føler sig? 
-```
-
-<!-- Ja det ville da være nemt at tilføje og nu ved vi jo lidt om emnet -->
 
 ### Muskelfunktion  
 
@@ -54,14 +43,6 @@ Den øgede tilgængelighed af Magnetisk Resonans skanninger (MR) har givet bedre
 ## Formål  
 
 Dette studie vil undersøge et testbatteri med forskellige modaliteter på en større gruppe af patienter med lænderygsmerter set i sekundærsektoren. De enkelte målemetoder giver hver for sig et begrænset billede af en større kompleks problematik. Målet er derfor at se, om et sådant testbatteri, vil kunne gives en mere fyldestgørende beskrivelse af patientgruppen mhp. smerteprofil, muskelfunktion og biomekaniske forhold. Yderligere vil studiet korrelere disse fund med patientens kliniske, psykiske og sociale præsentation.  
-
-```{r, include=TRUE}
-#Mere specifikt forskningsspørgsmål?
-
-#Måske det her er fint, men at vi skal specificerer det mere til den studerende. 
-```
-
-<!-- tænker det er fint ift etisk komite -->
 
 # Metode  
 
@@ -94,15 +75,8 @@ _Akustisk myografi: mekanisk akustisk aktivitet af musklen_ |
 
 Tabel 1: Oversigt over kvantitative kliniske test.  
 
-```{r,include=TRUE}
-#Bør man have saltvand injektion med? om ikke andet på en subgruppe? 
-#hvis vi får tilladelse her kan vi altid lave det under kohorten men måske med en anden studerende? 
-#så skal vi kun høre om raske frivillige? 
-```
+<!-- indsæt afsnit om saltvandsindsprøjtning under smertesensitivitet -->
 
-<!--
-  Det kan man godt -- det er i hvert fald en god model for dyb muskeklsmerte, men er jo også lidt bøvlet at lave. ...hvorfor i i givet fald, skal vi kun spørge ti lraske?
--->
 
 ## Test protokol Smertesensitivitet
 
@@ -198,10 +172,6 @@ Forsøgsdeltageren bliver instrueret i at nedsænke den ikke-dominante hånd i v
 Temporal summation testes med samme computer kontrolleret pneumatisk tryk stimulator som beskrevet herover. Der måles på den dominante underben. Smerte intensiteten angives på eVAS.
 
 Som stimuli bruges standard protokol med 10 stimulationer med 1 sekunders mellemrum, hvor trykket kører i cyklus mellem 5 KPa og svt. 100% af deltagerens smertetolerancen, som bliver målt forinden. Smerteintensitet scores som gennemsnit af tryk nummer. 2-4, 5-7 og 8-10. 
-
-```{r, include=TRUE}
-# Min protokol og umiddelbare plan for at analyserer TS fra cuffen? 
-```
 
 Derpå testes manuelt med 10 stimulationer med standard von Frey filament (North Coast Medical), et niveau over den individuelle prik smerte detektions tærskel på dominante hånds bagside og smerte intensitet ved første og sidste stimuli angives på papir VAS.
 
@@ -424,7 +394,7 @@ Der ydes ikke vederlag for deltagelse i aktuelle projekt.
 
 *MR henvisning*
 
-Når en lændepatient skal MR skannes og skal have booket en kontroltid, vil de få udleveret både deltagerinformation og projektinformation, her har de mulighed for at læse det igennem enten derhjemme eller på matriklen. Såfremt de tager materialet med hjem, vedlægges der et telefon nummer til de forskningsansvarlige og her kan der aftales en tid til mundtlig information. Hvis patienten bliver på matriklen og læser om projektet vil der være mulighed for mundtlig information her. <!-- opfordring til at patienten kontakter os eller kontakter vi dem? -->
+Når en lændepatient skal MR skannes og skal have booket en kontroltid, vil de få udleveret både deltagerinformation og projektinformation, her har de mulighed for at læse det igennem enten derhjemme eller på matriklen. Såfremt de tager materialet med hjem, vedlægges der et telefon nummer til de forskningsansvarlige og her kan der aftales en tid til mundtlig information. Hvis patienten bliver på matriklen og læser om projektet vil der være mulighed for mundtlig information her, her vil en sekretær kontakte en af de forskningsansvarlige.
 
 *E-boks*
 
@@ -438,7 +408,7 @@ Der kan aftales tid til projektdeltagelse nogle dage senere hvilket giver muligh
 
 Den mundtlig information om projektet evt. ifbm. deres første fremmøde på Rygcenter Syddanmark vil blive afholdt i et tomt undersøgelseslokale af den forskningsansvarlige. Her vil der være mulighed for medbringe en bisidder.
 
-Potentielle deltagere kan få al den betænkningstid de ønsker - der er intet krav om at give tilsagn indenfor en afgrænset periode (fraset projektets afslutning). <!-- jeg synes vi skal sige makes 4 uger efter klinisk us -->
+Potentielle deltagere har mulighed for at give samtykke til at deltage senest 4 uger efter den kliniske undersøgelse.
 
 Samtykke indhentes forud for første projekt undersøgelse.
 
