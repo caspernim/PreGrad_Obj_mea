@@ -1,7 +1,7 @@
 ---
 title: "Objektive mål af lænderygpatienter"
-subtitle: En kohorte undersøgelse af lændepatienter med udgangspunkt i Smertesensitivitet, Biomekanik,
-  Muskelfunktion - set fra et BioPsykoSocial perspektiv 
+subtitle: En kohorte undersøgelse af lændepatienter med udgangspunkt i smertesensitivitet, biomekanik og
+  muskelfunktion -- set fra et BioPsykoSocial perspektiv 
 author: "Casper Glissmann Nim, Johanne Brich Larsen og Søren O'Neill"
 date: "juni, 2018"
 output:
@@ -17,9 +17,9 @@ bibliography: PreGrad.bib
 
 ## Introduktion
 
-Lænderygsmerter er den hyppigste årsag til år levet med nedsat livskvalitet [@vos] og besøg hos den praktiserende læge og koster samfundet et betydeligt milliard beløb årligt på tabt arbejdskraft, sygemelding og behandling i primær sektoren [@sundhed]. På trods af den massive socioøkonomiske problemstilling lænderygsmerter er, har vi ikke et sufficient grundlag til at informere patienten om risikofaktorer, diagnose eller prognose - dette har medført at lænderygsmerter ikke længere ses som et _biomedicinsk_ problem, men i stedet som en multimodal problemstilling hvor både _biologiske_,  _psykologiske_ og  _sociale_ aspekter spiller en betydelig rolle [@osullivan]. 
+Lænderygsmerter er den hyppigste årsag til år levet med nedsat livskvalitet [@vos] og besøg hos den praktiserende læge. Problemet koster samfundet et betydeligt milliard beløb årligt på tabt arbejdskraft, sygemelding og behandling i primærsektoren [@sundhed]. På trods af den massive socioøkonomiske problemstilling lænderygsmerter udgør, har vi ikke et sufficient grundlag til at informere patienten om risikofaktorer, diagnose eller prognose. Dette har medført at lænderygsmerter ikke længere ses som et _biomedicinsk_ problem, men i stedet som en multimodal problemstilling hvor både _biologiske_,  _psykologiske_ og  _sociale_ aspekter spiller en betydelig rolle [@osullivan]. 
 
-Dette har gjort det svært at give en specifik årsags forklaring da det fremstår uklart præcis hvilke faktorer der har betydning for den enkelte patient. Der er dog forholdvis enighed om at både psykologiske og sociale problemstillinger generelt spiller en væsentlig rolle i både udvikling samt persistering af langvarige smerter. Disse parametre er tidligere kvantificeret ved brug af spørgeskemaer [@bean]. Den store udfordring kommer ved de biologiske forandringer såsom smertesensitivitet, biomekaniske forhold, muskelfunktion og degenerative forandringer, her opstår der uenighed i litteraturen omkring hvorvidt dette er relevant og om det har nogen betydning for patientens diagnose og prognose:
+Dette har gjort det svært at give en specifik årsagsforklaring da det fremstår uklart præcis hvilke faktorer der har betydning for den enkelte patient. Der er dog forholdvis enighed om at både psykologiske og sociale problemstillinger generelt spiller en væsentlig rolle i både udvikling samt persistering af langvarige smerter. Disse parametre er tidligere kvantificeret ved brug af spørgeskemaer [@bean]. Den store udfordring kommer ved de biologiske forandringer såsom smertesensitivitet, biomekaniske forhold, muskelfunktion og degenerative forandringer, her opstår der uenighed i litteraturen omkring hvorvidt dette er relevant og om det har nogen betydning for patientens diagnose og prognose:
 
 ```{r, include=TRUE}
 #Indsætte afsnit om heterogeneitet for bedre flow?
@@ -27,26 +27,33 @@ Dette har gjort det svært at give en specifik årsags forklaring da det fremst�
 #andre overskrifter? Biomekanik og muskelfunktion - ananas i egen juice??? 
 ```
 
+<!-- du kan indsætte kommentarer i markdown sådan her -->
 
 ### Smertesensitivitet
+
 Viden om centrale smertemekanismer er tiltaget over de sidste årtier. Det er postuleret at udvikling af _central sensibilisering_ spiller en betydelig rolle i overgangen mellem akutte og kroniske smerter, udstrålende smerter, post-operative smerter etc. [@arendt-nielsen]. En kvantificering af disse kan muligvis have en klinisk anvendelighed ved fx forebyggelse, diagnose, prognose og behandlingstiltag. Et estimat af _central sensibilisering_ kan måles ved forskellige smertetest der på nuværende tidspunkt typisk foretages i et laboratorium. For at vi kan øge vores viden om den kliniske anvendelighed, er der behov for at udføre målinger på en større population af patienter med lænderygsmerter. 
 
 ### Biomekaniske forhold  
+
 Stivhed i lænden er en hyppig klage blandt patienter med lænderygsmerter. Det er dog svært at opnå subjektiv enighed om hvornår man har et led der ikke bevæger sig optimalt og er såkaldt dysfunktionelt [@stochkendahl]. I et forsøg på at kvantificere stivhed har man udviklet et apparat der kan måle dette objektivt. Det er dog uklart hvorvidt følelsen af lændestivhed er af psykisk eller mekanisk ophav [@stanton]. Øget viden om kvantificerbar lændestivhed er nødvendigt for at kunne klassificere dets kliniske anvendelighed.
 
 ```{r}
 #Skal vi have noget kvantitativt på hvor stive folk føler sig? 
 ```
 
+<!-- Ja det ville da være nemt at tilføje og nu ved vi jo lidt om emnet -->
 
 ### Muskelfunktion  
+
 Teoretisk er optimal muskelfunktion vigtig for god og smertefri bevægelighed. Ved lænderygsmerter er det vist at der forekommer en ændring i aktiviteten af de stabiliserende rygmuskler under udvikling af både subakutte og kroniske smerter [@danneels]. Elektromyografi (EMG) er en målemetode der giver information omkring den elektriske aktivitet af muskulaturen. Metoden giver mulighed for at vurdere muskelfunktionen non-invasivt ved hjælp af elektroder placeret på huden (sEMG) [@villafane]. En anden metode til at undersøge muskelfunktionen på er ved hjælp af akustisk myografi (AMG). Denne metode bruger en teori om at muskler genererer trykbølger under deres kontraktion, trykbølgerne kan optages via mikrofoner på huden og analyseres som et udtryk for muskelfunktionen[@gordon1948]. For nuværende er der kun få studier der har beskæftiget sig med AMG. Disse peger på at AMG giver et mere tydeligt billede af musklens funktion i forhold til fx. EMG målinger[@harrison2013,@claudel2017]. Der mangler dog studier af høj kvalitet, herunder studier der påviser at metoden kan bruges til at måle rygmuskulaturen.
 
 ### Degenerative forandringer  
+
 Den øgede tilgængelighed af Magnetisk Resonans skanninger (MR) har givet bedre mulighed for at beskrive de strukturelle forhold i ryggen. Der hersker dog tvivl om hvorvidt disse oplysninger er klinisk relevante, fx. ses der degenerative forandringer hos personer uden symptomer[@brinjikji]. Studier har forsøgt at subklassificere forskellige MR fund [@jensenrk], men det er ikke tidligere forsøgt at korrelere MR fund med øvrige objektive målinger. 
 
 ## Formål  
-Dette studie vil undersøge et testbatteri med forskellige modaliteter på en stor gruppe af patienter med lænderygsmerter set i sekundærsektoren. De enkelte målemetoder giver hver for sig en begrænset forklaring på en større kompleks problematik. Målet er derfor at se, om et testbatteri af dette studies karakter, vil kunne gives en mere fyldestgørende beskrivelse af patientgruppen mhp. smerteprofil og biomekaniske forhold. Yderligere vil studiet korrelere disse fund med patientens kliniske, psykiske og sociale præsentation.  
+
+Dette studie vil undersøge et testbatteri med forskellige modaliteter på en større gruppe af patienter med lænderygsmerter set i sekundærsektoren. De enkelte målemetoder giver hver for sig et begrænset billede af en større kompleks problematik. Målet er derfor at se, om et sådant testbatteri, vil kunne gives en mere fyldestgørende beskrivelse af patientgruppen mhp. smerteprofil, muskelfunktion og biomekaniske forhold. Yderligere vil studiet korrelere disse fund med patientens kliniske, psykiske og sociale præsentation.  
 
 ```{r, include=TRUE}
 #Mere specifikt forskningsspørgsmål?
@@ -54,12 +61,13 @@ Dette studie vil undersøge et testbatteri med forskellige modaliteter på en st
 #Måske det her er fint, men at vi skal specificerer det mere til den studerende. 
 ```
 
+<!-- tænker det er fint ift etisk komite -->
 
 # Metode  
 
 Studiet er designet som et tværsnitstudie. 500 patienter inkluderes fortløbende og bliver undersøgt på Rygcenter Syddanmark, Sygehus Lillebælt.
 
-Undersøgelsen forventes at vare 60 minutter og har ikke nogen indvirkning på det kliniske forløb eller fremtidig behandling. 
+Undersøgelsen forventes at vare 60 minutter og har ikke nogen betydning for det kliniske forløb eller fremtidig behandling.
 
 Selve den eksperimentelle undersøgelse består af *xx* antal test (Tabel 1).  *SKAL OPDATERES NÅR DET ENDELIGE FORELIGGER*
 
@@ -92,6 +100,9 @@ Tabel 1: Oversigt over kvantitative kliniske test.
 #så skal vi kun høre om raske frivillige? 
 ```
 
+<!--
+  Det kan man godt -- det er i hvert fald en god model for dyb muskeklsmerte, men er jo også lidt bøvlet at lave. ...hvorfor i i givet fald, skal vi kun spørge ti lraske?
+-->
 
 ## Test protokol Smertesensitivitet
 
@@ -108,6 +119,8 @@ Forsøgsdeltagere instrueres i brugen af en *visuel analog smerte skala* (VAS), 
 Forsøgsdeltagere instrueres i brugen af en *elektronisk visuel analog smerte skala* (eVAS), som er en grafisk skala vist på en computerskærm, markeret med 'Ingen smerte' og 'Værst tænkelige smerte' i hver ende af skalaen ("Ingen smerter"=0 til "Værst tænkelige smerte="100), som måles med en frekvens på 1 Hz.
 
 Der afprøves to forskellige test protokoller:
+
+<!-- Det tror jeg forvirrer lidt da vi jop allerede er i gang med at sammenligne de to batterier. Lad os lige snakke om det i dag -->
 
 * Standard laboratorie metode
 * Tilpasset klinisk metode
@@ -322,19 +335,19 @@ EMG udføres ved at en bipolar elektrode (NAVN??? og størrelse) placeres umidde
 
 #### Magnetisk Resonans skanning
 
-Deltageren vil ikke få foretaget en MR-skanning ifbm. studiet, men via den vanlige kliniske udredning. Billederne gemmes på separat PACS system hvor de bliver anonymiseret og vil være tilgængelig til analyser efter dybdegående deskriptiv beskrivelse af diskus degeneration, diskus protrussion, diskus prolaps, modic forandringer, facetledsartrose, lig. flavum hypertrofi samt øvrige mere sjældne fund der ofte antages at være bifund [REF????] som fx tarlov cyster, facetledscyster, hæmangion, schmolsk impression etc. på hvert lumbale segment (Th12/L1 til L5/S1). 
+Deltageren vil ikke få foretaget en MR-skanning ifbm. studiet, men via den vanlige kliniske udredning. Billederne gemmes på separat PACS system hvor de bliver anonymiseret og vil være tilgængelig til analyser efter almindelig radiologisk beskrivelse. <!-- slette det efterfølgende? --> af diskus degeneration, diskus protrussion, diskus prolaps, modic forandringer, facetledsartrose, lig. flavum hypertrofi samt øvrige mere sjældne fund der ofte antages at være bifund [REF????] som fx tarlov cyster, facetledscyster, hæmangion, schmolsk impression etc. på hvert lumbale segment (Th12/L1 til L5/S1). 
 
 ## Overordnet protokol
 
 Undersøgelserne foregår i det dertil indrettede laboratorium på Rygcenter Syddanmark, Middelfart Sygehus og vil blive foretaget af en forskningsassistent, som ligeledes vil indhente de relevante journal oplysninger. REDCap (Research Electronic Data Capture, Region Syddanmark) vil blive anvendt til at indtaste data fra undersøgelserne.  
 
-Protokollen består af tre del-undersøgelse som omhandler _smertesensitivitet_, _biomekanik_ og _muskelfuktion_. Der inkluderes forsøgsdeltagere med ondt i ryggen fra Rygcenter Syddanmark, Middelfart. I alle tre del-undersøgelser, er der ikke krav om at alle forsøgsdeltagere skal gennemføre det fulde batteri. 
+Protokollen består af tre del-undersøgelse som omhandler _smertesensitivitet_, _biomekanik_ og _muskelfuktion_. Der inkluderes forsøgsdeltagere med ondt i ryggen fra Rygcenter Syddanmark, Middelfart. I alle tre del-undersøgelser, er der ikke krav om at alle forsøgsdeltagere skal gennemføre det fulde batteri. <!-- hmm... det synes jeg da vi skal insistere på -->
 
-Undersøgelsen udføres **en** gang, evt. i forbindelse med et kontrolbesøg som del af den vanlige udredning.
+Undersøgelsen udføres _en_ gang, evt. i forbindelse med et kontrolbesøg som del af den vanlige udredning.
 
 ### Statistiske overvejelser
 
-Da vi udfører et stort batteri af forskellige test, som ikke tidligere er korreleret er power analyse ikke muligt, vi ønsker at inkludere så mange som muligt. Projektet forventes at løbe i ca. 6 måneder, men vi stopper efter 500 deltagere. 
+Der er tale om et eksplorativt og hypotese genererende studie, hvor vi udfører et stort batteri af forskellige test, som ikke tidligere er korreleret med kliniske data. En egentlig power analyse er ikke muligt, og vi ønsker at inkludere så mange som praktisk muligt. Projektet forventes at løbe i ca. 6 måneder, men vi stopper efter 500 deltagere. 
 
 ### Forsøgspersoner
 
@@ -387,7 +400,6 @@ Udover dette vil de deltagere med MR skanningen bliver videregivet til sikkert P
 
 Der indsamles intet biologisk materiale i aktuelle projekt.
 
-
 ### Behandling af personoplysninger i projektet
 
 Loven om databeskyttelse vil blive overholdt.
@@ -412,20 +424,21 @@ Der ydes ikke vederlag for deltagelse i aktuelle projekt.
 
 *MR henvisning*
 
-Når en lændepatient skal MR skannes og skal have booket en kontroltid, vil de få udleveret både deltagerinformation og projektinformation, her har de mulighed for at læse det igennem enten derhjemme eller på matriklen. Såfremt de tager materialet med hjem, vedlægges der et telefon nummer til de forskningsansvarlige og her kan der aftales en tid til mundtlig information. Hvis patienten bliver på matriklen og læser om projektet vil der være mulighed for mundtlig information her. 
+Når en lændepatient skal MR skannes og skal have booket en kontroltid, vil de få udleveret både deltagerinformation og projektinformation, her har de mulighed for at læse det igennem enten derhjemme eller på matriklen. Såfremt de tager materialet med hjem, vedlægges der et telefon nummer til de forskningsansvarlige og her kan der aftales en tid til mundtlig information. Hvis patienten bliver på matriklen og læser om projektet vil der være mulighed for mundtlig information her. <!-- opfordring til at patienten kontakter os eller kontakter vi dem? -->
 
 *E-boks*
 
 Patienter med kroniske rygsmerter rekrutteres ved skriftlig kontakt forud for undersøgelsen på Rygcentret. På baggrund af data indtastet i SpineData er det muligt automatisk at identificere potentielt egnede deltagere ift. inklusionkriterierne, som giver samtykke til at deres oplysninger i SpineData må anvendes til forskning -- derpå fremsendes skriftlig deltager information via e-boks.
 
 Potentielle forsøgsdeltagere med rygsmerter får således tilsendt skriftlig deltager information nogle dage forud for deres kliniske undersøgelse på afdelingen. I forbindelse med den kliniske undersøgelse vil de få mundtlig deltager information fra en af de forskningsansvarlige på afdelingen. 
+
 Der kan aftales tid til projektdeltagelse nogle dage senere hvilket giver mulighed for betænkningstid forud for evt samtykke, og i så fald kontaktes patienten tidligst 1 døgn senere af den forskningsansvarlige for at høre om patienten ønsker at deltage. 
 
 ### Informeret samtykke
 
 Den mundtlig information om projektet evt. ifbm. deres første fremmøde på Rygcenter Syddanmark vil blive afholdt i et tomt undersøgelseslokale af den forskningsansvarlige. Her vil der være mulighed for medbringe en bisidder.
 
-Potentielle deltagere kan få al den betænkningstid de ønsker - der er intet krav om at give tilsagn indenfor en afgrænset periode (fraset projektets afslutning). 
+Potentielle deltagere kan få al den betænkningstid de ønsker - der er intet krav om at give tilsagn indenfor en afgrænset periode (fraset projektets afslutning). <!-- jeg synes vi skal sige makes 4 uger efter klinisk us -->
 
 Samtykke indhentes forud for første projekt undersøgelse.
 
